@@ -14,7 +14,7 @@ I'm open to collaborate on interesting projects in data science and machine lear
 <br/>
 <br/>
 
-<h2>👩🏼‍🎓 Skills: </h2>
+<h2>👨‍🎓 Skills: </h2>
 These are some of the major technologies that I use or have worked on in the past:
 <br>
 <br>
