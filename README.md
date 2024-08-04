@@ -2,19 +2,23 @@
 
 <h2 align='center'> Data Science Expert | ML Enthusiast | Personal Finance Finesse </h3>
 I am a Senior Analytics engineer with over 5 years of industry experience. I specialize in time series analysis using different statistical methods. I also have extensive experience in data processing, which allows me to extract meaningful insights from large datasets. I am proficient in using Python and have experience in developing interactive visualization dashboards using Bokeh.
-
+<br>
+<br>
 My expertise also extends to understanding customer requirements and providing them with the best possible solutions to meet their needs and delivering projects on time. I take pride in my ability to translate complex data into actionable insights that enable data-driven decision-making.
-
+<br>
+<br>
 I hold a Masters degree in Computer Integrated Manufacturing from NIT-Warangal and have acquired a wide range of skills and knowledge that I apply in my work every day. I am always eager to learn more and keep up-to-date with the latest developments in the field.
-
+<br>
+<br>
 I have a passion for analyzing stocks and managing my own investment portfolio. As a hobby, I enjoy researching market trends and making informed financial decisions to optimize my investments.
-
+<br>
+<br>
 I'm open to collaborate on interesting projects in data science and machine learning domain.
 
 <br/>
 <br/>
 
-<h2>👨‍🎓 Skills: </h2>
+<h2>🎓 Skills: </h2>
 These are some of the major technologies that I use or have worked on in the past:
 <br>
 <br>
